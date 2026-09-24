@@ -1,0 +1,15 @@
+{
+  "annonces": [
+    {
+      "titre": "Bienvenue",
+      "date": "24/09/2026",
+      "texte": "Les messages du SeGEC a destination des conseillers en prevention s'affichent ici, et dans GeARS-3L.",
+      "liens": [
+        {
+          "libelle": "Lire sur le site",
+          "url": "https://segec-be.github.io/gears-communication/"
+        }
+      ]
+    }
+  ]
+}
